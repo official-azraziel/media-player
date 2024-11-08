@@ -50,10 +50,10 @@ const music_list = [
         music : 'https://music.songsio.com/s/foWn/01%20Unbreakable.mp3'
     },
     {
-        img : 'https://i.postimg.cc/gkFKFW37/ellis.jpg',
-        name : 'Speak Français (feat. NOËP)',
-        artist : 'Ellis',
-        music : 'https://drive.google.com/uc?export=view&id='
+        img : 'https://i.postimg.cc/0NYsPnhn/azraziel.jpg',
+        name : 'Snakes & Ladders',
+        artist : 'Azraziel & Kuuro Ft. B.Eva',
+        music : 'https://music.songsio.com/s/loV3/01%20Snakes%20%26%20Ladders.mp3'
     },
     {
         img : 'https://i.postimg.cc/SRMjfRdf/must-die.jpg',
