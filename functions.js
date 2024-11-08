@@ -44,7 +44,7 @@ const music_list = [
         music : 'https://music.songsio.com/s/dCtr/01%20Sou%20Musa%20do%20Ver%C3%A3o.mp3'
     },
     {
-        img : 'https://i.postimg.cc/8zywL41P/haoprox.jpg',
+        img : 'https://i.postimg.cc/V6ScksjF/bianca.jpg',
         name : 'Unbreakable',
         artist : 'Hoaprox & Bianca',
         music : 'https://music.songsio.com/s/foWn/01%20Unbreakable.mp3'
